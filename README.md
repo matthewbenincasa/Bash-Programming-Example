@@ -1,2 +1,2 @@
 # Bash-Programming-Example
-an example bash script with comments
+a selection of example bash scripts with comments
